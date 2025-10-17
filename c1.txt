@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 AIML
 CSE
 IT
 AIDS
+=======
+AIML
+CSE
+IT
+AIDS
+>>>>>>> fb
